@@ -1,1 +1,4 @@
 üçüncü text dosyası
+
+
+son commitimizi attık
